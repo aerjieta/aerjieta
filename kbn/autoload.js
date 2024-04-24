@@ -29,8 +29,8 @@ if (screen.width >= 700) {
 	]).then(() => {
 		initWidget({
 			waifuPath: live2d_path + "waifu-tips.json",
-			//apiPath: "https://live2d.fghrsh.net/api/",
-			cdnPath: "********",
+			//apiPath: "********",
+			cdnPath: "https://aerjieta.vercel.app/kbnapi/",
 			tools: ["hitokoto", "asteroids", "switch-model", "switch-texture", "photo", "info", "quit"]
 		});
 	});
