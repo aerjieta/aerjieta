@@ -1,19 +1,19 @@
     {
       "headers": [
         {
-          "source": "/(.*)",  // 这表示所有的文件或路由
+          "source": "/(.*)", 
           "headers": [
             {
               "key": "Access-Control-Allow-Origin",
-              "value": "https://pikpak.zhiyi.workers.dev"  // 只允许这个域名的跨域请求
+              "value": "https://pikpak.zhiyi.workers.dev"
             },
             {
               "key": "Access-Control-Allow-Methods",
-              "value": "GET, POST, PUT, DELETE, OPTIONS"  // 允许的HTTP请求方法
+              "value": "GET, POST, PUT, DELETE, OPTIONS"
             },
             {
               "key": "Access-Control-Allow-Headers",
-              "value": "X-Requested-With, content-type, Authorization"  // 允许的HTTP头
+              "value": "X-Requested-With, content-type, Authorization"
             }
           ]
         }
