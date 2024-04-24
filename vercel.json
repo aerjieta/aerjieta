@@ -5,7 +5,7 @@
           "headers": [
             {
               "key": "Access-Control-Allow-Origin",
-              "value": "https://pikpak.zhiyi.workers.dev"
+              "value": "https://pikpak.zhiyin.workers.dev"
             },
             {
               "key": "Access-Control-Allow-Methods",
