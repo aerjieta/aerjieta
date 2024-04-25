@@ -6,6 +6,11 @@
 		"textures/texture_01.png",
 		"textures/texture_02.png"
 	],
+	 "layout": {
+                "center_x": 0.0,
+                "center_y": 0.1,
+                "width": 2.1
+                },
 	"hit_areas": [
 		{
 			"name": "head",
