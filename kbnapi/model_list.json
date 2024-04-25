@@ -28,39 +28,64 @@
 	        "bronya/1",
 	        "bronya/2"
      	],
+        [
+    		"dollsfrontline/grizzly_2102/destroy",
+	        "dollsfrontline/grizzly_2102/normal"
+	    ],
+		"terisa",
 	    [
             "dollsfrontline/88type_1809/destroy",
-	        "dollsfrontline/88type_1809/normal",	
+	        "dollsfrontline/88type_1809/normal"
+	    ],	
+	    [
             "dollsfrontline/95type_405/destroy",
-            "dollsfrontline/95type_405/normal",
-	        "dollsfrontline/ags-30",
-            "dollsfrontline/ak12_2402/destroy",
-	        "dollsfrontline/ak12_2402/normal",
+            "dollsfrontline/95type_405/normal"
+	    ],
+	    "dollsfrontline/ags-30",
+	    [  
+		    "dollsfrontline/ak12_2402/destroy",
+	        "dollsfrontline/ak12_2402/normal"
+	    ],
+	    [
             "dollsfrontline/dsr50_1801/destroy",
-	        "dollsfrontline/dsr50_1801/normal",
+	        "dollsfrontline/dsr50_1801/normal"
             "dollsfrontline/dsr50_2101/destroy",
-	        "dollsfrontline/dsr50_2101/normal",
-	        "dollsfrontline/fn57_2203/normal",
-            "dollsfrontline/g36c_1202/destroy",
-	        "dollsfrontline/g36c_1202/normal",
-            "dollsfrontline/gelina/normal",
-            "dollsfrontline/grizzly_2102/destroy",
-	        "dollsfrontline/grizzly_2102/normal",
-            "dollsfrontline/hk416_805/destroy",
-	        "dollsfrontline/hk416_805/normal",
-            "dollsfrontline/kp31_3101/destroy",
-	        "dollsfrontline/kp31_3101/normal",
-            "dollsfrontline/ntw20_2301/destroy",
-	        "dollsfrontline/ntw20_2301/normal",
-            "dollsfrontline/ots14_3001/destroy",
-	        "dollsfrontline/ots14_3001/normal",
+	        "dollsfrontline/dsr50_2101/normal"
+	    ],
+	    "dollsfrontline/fn57_2203/normal",
+        [
+       		"dollsfrontline/g36c_1202/destroy",
+	        "dollsfrontline/g36c_1202/normal"
+	    ],
+        "dollsfrontline/gelina/normal",
+	    [  
+		    "dollsfrontline/hk416_805/destroy",
+	        "dollsfrontline/hk416_805/normal"
+	    ],
+	    [  
+     		"dollsfrontline/kp31_3101/destroy",
+	        "dollsfrontline/kp31_3101/normal"
+	    ],
+        [
+     		"dollsfrontline/ntw20_2301/destroy",
+	        "dollsfrontline/ntw20_2301/normal"
+	    ],
+ 	    [
+     		"dollsfrontline/ots14_3001/destroy",
+	        "dollsfrontline/ots14_3001/normal"
+	    ],
+		[
             "dollsfrontline/rfb_1601/destroy",
-	        "dollsfrontline/rfb_1601/normal",
-            "dollsfrontline/type64-ar_2901/destroy",
-	        "dollsfrontline/type64-ar_2901/normal",
-            "dollsfrontline/vector_1901/destroy",
+	        "dollsfrontline/rfb_1601/normal"
+	    ],
+        [  
+	        "dollsfrontline/type64-ar_2901/destroy",
+	        "dollsfrontline/type64-ar_2901/normal"
+	    ],
+        [    
+	        "dollsfrontline/vector_1901/destroy",
 	        "dollsfrontline/vector_1901/normal"
-	   ],
+	    ],
         "fox",
         "hallo_16",
         "hibiki",
@@ -89,7 +114,6 @@
         "sagiri",
         "sakura",
      	"snow_miku",
-    	"terisa",
      	"xisitina"
         ],
     "messages": [
@@ -97,7 +121,23 @@
         "阿尔杰塔的女仆~HyperdimensionNeptunia",
         "阿尔杰塔的女仆~Kobayaxi",
         "阿尔杰塔的女仆~bronya",
-        "阿尔杰塔的女仆~dollsfrontline",
+        "阿尔杰塔的女仆~grizzly",
+        "阿尔杰塔的女仆~terisa",
+        "阿尔杰塔的女仆~88type",
+        "阿尔杰塔的女仆~95type",
+        "阿尔杰塔的女仆~ags-30",
+        "阿尔杰塔的女仆~ak12",
+        "阿尔杰塔的女仆~dsr50",
+        "阿尔杰塔的女仆~fn57",
+        "阿尔杰塔的女仆~g36c",
+        "阿尔杰塔的女仆~gelina",
+        "阿尔杰塔的女仆~hk416",
+        "阿尔杰塔的女仆~kp31",
+        "阿尔杰塔的女仆~ntw20",
+        "阿尔杰塔的女仆~ots14",
+        "阿尔杰塔的女仆~rfb",
+        "阿尔杰塔的女仆~type64",
+        "阿尔杰塔的女仆~vector",
         "阿尔杰塔的女仆~fox",
         "阿尔杰塔的女仆~hallo_16",
         "阿尔杰塔的女仆~hibiki",
@@ -119,7 +159,6 @@
         "阿尔杰塔的女仆~sagiri",
         "阿尔杰塔的女仆~sakura",
      	"阿尔杰塔的女仆~snow_miku",
-	"阿尔杰塔的女仆~terisa",
     	"阿尔杰塔的女仆~xisitina"
     ]
 }
