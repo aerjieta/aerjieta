@@ -16,6 +16,15 @@
               "value": "X-Requested-With, content-type, Authorization"
             }
           ]
+        },
+        {
+          "source": "/(.*)", 
+          "headers": [
+            {
+              "key": "Access-Control-Allow-Origin",
+              "value": "https://j2sq9v-8888.fc-eu-0.pitcher.csb.app"
+            }
+          ]
         }
       ]
     }
