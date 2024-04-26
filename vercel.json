@@ -22,7 +22,7 @@
           "headers": [
             {
               "key": "Access-Control-Allow-Origin",
-              "value": "https://j2sq9v-8888.csb.app/"
+              "value": "https://j2sq9v-8888.csb.app"
             }
           ]
         }
