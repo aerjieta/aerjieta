@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "https://j2sq9v-8888.csb.app, https://pikpak.zhiyin.workers.dev"
+          "value": "https://j2sq9v-8888.csb.app"
         },
         {
           "key": "Access-Control-Allow-Methods",
