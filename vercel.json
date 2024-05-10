@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "https://aerjieta.rr.nu"
+          "value": "http://aerjieta.rr.nu"
         },
         {
           "key": "Access-Control-Allow-Methods",
