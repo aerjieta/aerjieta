@@ -36,4 +36,4 @@ if (screen.width >= 700) {
 	});
 }
 
-console.log("看板娘已就绪！");
+console.log("阿尔杰塔的女仆们已就绪！");
