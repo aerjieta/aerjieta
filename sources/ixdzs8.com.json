@@ -1,34 +1,28 @@
 {
-  "bookSourceUrl": "https://ixdzs8.com",
-  "bookSourceName": "爱下电子书",
-  "bookSourceGroup": "自用",
-  "bookSourceType": 0,
-  "bookSourceComment": "爱下电子书自用书源",
-  "enabled": true,
-  "header": "",
-  "loginUrl": "",
-  "ruleBookAuthor": "class.bauthor@text",
-  "ruleBookContent": "id.read-content@html",
-  "ruleBookInfoInit": "",
-  "ruleBookKind": "class.nsort@text",
-  "ruleBookLastChapter": "class.u-chapter@tag.li.0@tag.a@text",
-  "ruleBookName": "tag.h1@text",
-  "ruleBookUrlPattern": "https://ixdzs8.com/read/\\d+/?",
-  "ruleChapterList": "class.u-chapter@tag.li@tag.a",
-  "ruleChapterName": "text",
-  "ruleChapterUrl": "href",
-  "ruleContentUrl": "href",
-  "ruleCoverUrl": "class.n-img@tag.img@src",
-  "ruleIntroduce": "id.intro@text",
-  "ruleSearchAuthor": "class.bauthor@text",
-  "ruleSearchCoverUrl": "",
-  "ruleSearchKind": "",
-  "ruleSearchLastChapter": "",
-  "ruleSearchList": "class.panel@tag.ul",
-  "ruleSearchName": "tag.a@text",
-  "ruleSearchNoteUrl": "tag.a@href",
-  "ruleSearchUrl": "/bsearch?q=searchKey",
-  "ruleUrl": "https://ixdzs8.com",
-  "serialNumber": 0,
-  "weight": 0
+  "name": "ixdzs8.com",
+  "version": 103,
+  "category": 1,
+  "url": "https://ixdzs8.com",
+  "charset": "utf-8",
+  "search": {
+    "link": "/bsearch?q=${key}",
+    "list": ".u-list li",
+    "name": ".bname",
+    "author": ".bauthor",
+    "cover": "img",
+    "detail": ".bname"
+  },
+  "detail": {
+    "name": "h1",
+    "catalog": ""
+  },
+  "catalog": {
+    "list": ".u-chapter li",
+    "orderBy": 0,
+    "name": "a",
+    "chapter": "a"
+  },
+  "chapter": {
+    "content": "section"
+  }
 }
