@@ -1,10 +1,9 @@
 {
   "name": "ixdzs8.com",
-  "version": 103,
+  "version": 104,
   "category": 1,
   "url": "https://ixdzs8.com",
   "charset": "utf-8",
-  "header": "{\"User-Agent\": \"Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36\"}",
   "search": {
     "link": "/bsearch?q=${key}",
     "list": "ul.u-list > li.burl",
