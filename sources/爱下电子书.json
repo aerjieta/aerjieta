@@ -1,0 +1,52 @@
+{
+  "name": "爱下电子书",
+  "version": 101,
+  "category": 1,
+  "url": "https://ixdzs8.com",
+  "charset": "utf-8",
+  "metadata": {
+    "name": [
+      "tag.h1"
+    ],
+    "author": [
+      "class.bauthor@tag.a"
+    ],
+    "cover": [
+      "class.n-img@tag.img@attr->src"
+    ],
+    "summary": [
+      "id.intro"
+    ],
+    "category": [
+      "class.nsort"
+    ],
+    "status": [
+      "class.nsort"
+    ],
+    "update": [
+      "class.n-text@tag.div"
+    ],
+    "lastChapter": [
+      "class.u-chapter@tag.li.0@tag.a"
+    ],
+    "link": [
+      "tag.a@attr->href"
+    ],
+    "catalog": []
+  },
+  "catalog": {
+    "list": "class.u-chapter@tag.li",
+    "orderBy": 0,
+    "chapter": {
+      "name": "a",
+      "link": "a@attr->href"
+    }
+  },
+  "content": {
+    "text": "id.read-content"
+  },
+  "search": {
+    "link": "https://ixdzs8.com/bsearch?q=${key}",
+    "list": "class.panel@tag.ul@tag.li"
+  }
+}
