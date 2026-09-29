@@ -1,11 +1,11 @@
 {
   "name": "ixdzs8.com",
-  "version": 104,
+  "version": 105,
   "category": 1,
   "url": "https://ixdzs8.com",
   "charset": "utf-8",
   "search": {
-    "link": "/bsearch?q=${key}",
+    "url": "https://ixdzs8.com/bsearch?q=${key}@header->user-agent:Mozilla/5.0 (Linux; Android 10; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Mobile Safari/537.36",
     "list": "ul.u-list > li.burl",
     "name": "h3.bname > a",
     "author": "span.bauthor > a",
@@ -26,6 +26,7 @@
     "chapter": "a"
   },
   "chapter": {
-    "content": "section"
+    "content": "section",
+    "filter": ["@div", "@script", "@a"]
   }
 }
