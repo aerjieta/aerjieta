@@ -4,20 +4,24 @@
   "category": 1,
   "url": "https://ixdzs8.com",
   "charset": "utf-8",
+  "header": "{\"User-Agent\": \"Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36\"}",
   "search": {
     "link": "/bsearch?q=${key}",
-    "list": ".u-list li",
-    "name": ".bname",
-    "author": ".bauthor",
-    "cover": "img",
-    "detail": ".bname"
+    "list": "ul.u-list > li.burl",
+    "name": "h3.bname > a",
+    "author": "span.bauthor > a",
+    "cover": "div.l-img img",
+    "detail": "h3.bname > a"
   },
   "detail": {
-    "name": "h1",
+    "name": ".n-text h1",
+    "author": ".n-text a.bauthor",
+    "cover": ".n-img img",
+    "summary": "#intro",
     "catalog": ""
   },
   "catalog": {
-    "list": ".u-chapter li",
+    "list": "ul.u-chapter > li",
     "orderBy": 0,
     "name": "a",
     "chapter": "a"
