@@ -8,7 +8,6 @@
     "url": "https://www.qgxsw.com/search.html",
     "method": "POST",
     "body": "s=${key}",
-    "data": "s=${key}",
     "list": "ul.txt-list > li",
     "name": "span.s2 > a@text",
     "author": "span.s3 > a@text",
