@@ -5,7 +5,7 @@
   "url": "https://www.qgxsw.com",
   "charset": "utf-8",
   "search": {
-    "url": "https://www.qgxsw.com/search.html?q=${key}",
+    "url": "https://www.qgxsw.com/search.html",
     "method": "post",
     "data": "s=${key}",
     "list": "ul.txt-list > li",
@@ -28,6 +28,10 @@
   },
   "chapter": {
     "content": "div.word_read",
-    "filter": ["@script", "@div.read_btn", "@p:matches(请勿开启浏览器阅读模式)"]
+    "filter": [
+      "@script",
+      "@div.read_btn",
+      "@p:matches(请勿开启浏览器阅读模式)"
+    ]
   }
 }
