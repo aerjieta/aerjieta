@@ -5,13 +5,13 @@
   "url": "https://www.qgxsw.com",
   "charset": "utf-8",
   "search": {
-    "url": "https://www.qgxsw.com/search.html",
-    "method": "post",
-    "data": "s=${key}",
-    "list": "ul.txt-list > li",
-    "name": "span.s2 > a@text",
-    "author": "span.s3 > a@text",
-    "detail": "span.s2 > a@href"
+  "url": "https://www.qgxsw.com/search.html",
+  "method": "post",
+  "data": "s=${key}",
+  "list": "ul.txt-list > li",
+  "name": "span.s2 > a@text",
+  "author": "span.s3 > a@text",
+  "detail": "span.s2 > a@href"
   },
   "detail": {
     "name": "div.top > h1",
